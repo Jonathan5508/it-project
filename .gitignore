@@ -1,0 +1,4 @@
+frontend/node_modules
+frontend/package-lock.json
+Inventory/__pycache__
+Payment/__pycache__
